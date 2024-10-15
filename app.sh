@@ -1,0 +1,17 @@
+app activate org.onosproject.pipelines.basic
+app activate org.onosproject.drivers
+app activate org.onosproject.generaldeviceprovider
+app activate org.onosproject.hostprovider
+app activate org.onosproject.lldpprovider
+app activate org.onosproject.gui2
+app activate org.onosproject.openflow-base
+app activate org.onosproject.openflow
+app activate org.onosproject.optical-model
+app activate org.onosproject.drivers.p4runtime
+app activate org.onosproject.protocols.p4runtime
+app activate org.onosproject.p4runtime
+app activate org.onosproject.proxyarp
+app activate org.onosproject.fwd
+app activate org.onosproject.protocols.gnmi
+app activate org.onosproject.protocols.grpc
+app deactivate org.onosproject.acl
