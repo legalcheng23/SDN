@@ -1,0 +1,23 @@
+{
+  "priority": 4,
+  "timeout": 0,
+  "isPermanent": true,
+  "deviceId": "of:0000000000000001",
+  "treatment": {
+    "instructions": [
+      {
+        "type": "OUTPUT",
+        "port": "2"
+      }
+    ]
+  },
+  "selector": {
+    "criteria": [
+	    {
+        "type": "IPV4_DST",
+        "ip": "10.1.1.2/32"
+      }
+    ]
+  }
+}
+

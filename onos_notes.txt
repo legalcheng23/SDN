@@ -1,0 +1,11 @@
+1, ONOS and mininet
+
+http://www.stackguy.com/archives/248
+
+2, json for rule
+
+https://wiki.onosproject.org/display/ONOS/Flow+Rules
+
+3, curl to install rules
+
+https://wiki.onosproject.org/display/ONOS/REST
