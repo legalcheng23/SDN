@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ONOS 控制器的地址和認證
-CONTROLLER_IP="192.168.1.1"
+CONTROLLER_IP="172.17.0.5"
 USER="onos"
 PASSWORD="rocks"
 
